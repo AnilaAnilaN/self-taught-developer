@@ -52,6 +52,7 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [Huxn WebDev](https://www.youtube.com/watch?v=H3XIJYEPdus)
 - [Bro Code](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 - [CodeBlock](https://www.youtube.com/watch?v=_izCojOyiag)
+- [Javascript.info](https://javascript.info/)
 
 # JavaScript Ecosysten
 
